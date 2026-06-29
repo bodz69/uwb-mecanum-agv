@@ -4,7 +4,7 @@ Dự án này xây dựng một mô hình robot Mecanum tự hành trong nhà, t
 
 Mục tiêu của nhóm không phải tạo một nền tảng AMR hoàn chỉnh, mà là làm rõ ba câu hỏi: UWB định vị được robot trong nhà đến mức nào, odometry trôi ra sao khi robot chạy lâu, và việc kết hợp hai nguồn dữ liệu có giúp quỹ đạo ổn định hơn hay không.
 
-![Kiến trúc hệ thống](docs/images/Screenshot 2026-06-29 192125.png)
+![Kiến trúc hệ thống](docs/images/system_architecture.png)
 
 ## Dự án làm được gì?
 
